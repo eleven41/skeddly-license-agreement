@@ -9,7 +9,8 @@ These terms and conditions (the "Terms") govern your access to and use of https:
 ## Age Of Majority
 
 By using our Website and Service you, the user or subscriber (herein "you" or "your"), represent and warrant that you are the age of majority, have read and understand these Terms and agree to be bound by them. If you are not the age of majority or do not agree to these Terms, please stop using the Website and Service and contact us immediately. 
-Authority
+
+## Authority
 
 If you are using the Website and Service on behalf of an organization (corporation, trust, partnership etc.), you are agreeing to these Terms for that organization and representing and warranting that you have the authority to bind that organization to these Terms.  In such a case, "you" and "your" will also refer to that organization and yourself individually.  For greater clarity, both you as an individual and your organization are legally bound by these Terms, which form an express agreement between you and Eleven41 Software Inc.
 
